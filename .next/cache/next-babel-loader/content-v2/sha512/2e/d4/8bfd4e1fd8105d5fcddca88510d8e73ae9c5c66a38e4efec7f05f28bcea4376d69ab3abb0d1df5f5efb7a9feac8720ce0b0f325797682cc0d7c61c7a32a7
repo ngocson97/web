@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function Deal() {\n  return dea;\n}","map":{"version":3,"sources":["/mnt/e/ESC_LLC/intantep/src/pages/deals/index.js"],"names":["Deal","dea"],"mappings":"AAAA,eAAe,SAASA,IAAT,GAAgB;AAC3B,SAAOC,GAAP;AACH","sourcesContent":["export default function Deal() {\r\n    return dea\r\n}"]},"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function Deal() {}\n_c = Deal;\n\nvar _c;\n\n$RefreshReg$(_c, \"Deal\");","map":{"version":3,"sources":["/mnt/e/ESC_LLC/intantep/src/pages/deals/index.js"],"names":["Deal"],"mappings":"AAAA,eAAe,SAASA,IAAT,GAAgB,CAE9B;KAFuBA,I","sourcesContent":["export default function Deal() {\r\n    \r\n}"]},"metadata":{},"sourceType":"module"}
